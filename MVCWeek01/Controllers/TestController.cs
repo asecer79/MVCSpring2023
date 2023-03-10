@@ -26,6 +26,7 @@ namespace MVCWeek01.Controllers
             return "My name is Aydın";
         }
 
+
         public int Sum()
         {
             int sum = 0;
